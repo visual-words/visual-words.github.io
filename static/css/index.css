@@ -23,12 +23,9 @@ body {
   padding-bottom: 3rem;
 }
 
-.teaser {
-  font-family: 'Google Sans', sans-serif;
-}
-
 
 .publication-title {
+  font-size: 2.5rem !important;
 }
 
 .publication-banner {
@@ -133,5 +130,14 @@ body {
   font-size: smaller;
 }
 
+var.vector {
+  font-style : normal;
+}
+var.vector span {
+  margin-left: 0;
+  vertical-align : 0;
+}
 
-
+.teaser-gif {
+  margin: 0 auto;
+}
