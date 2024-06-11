@@ -1,0 +1,8 @@
+@misc{trabucco2024VisualWords,
+  title={Understanding Visual Concepts Across Models},
+  author={Brandon Trabucco and Max Gurinas and Kyle Doherty and Ruslan Salakhutdinov},
+  year={2024},
+  eprint={TBA},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+}
