@@ -2,7 +2,7 @@
   title={Understanding Visual Concepts Across Models},
   author={Brandon Trabucco and Max Gurinas and Kyle Doherty and Ruslan Salakhutdinov},
   year={2024},
-  eprint={TBA},
+  eprint={2406.07506},
   archivePrefix={arXiv},
   primaryClass={cs.CV},
 }
